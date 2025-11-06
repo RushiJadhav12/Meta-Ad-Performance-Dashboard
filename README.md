@@ -5,4 +5,5 @@ This project aims to develop an advanced, real-time Meta Ad Performance Dashboar
 
 ## 2. Problem Statement :
  Background :  
- While Meta (Facebook and Instagram) platforms generate vast amounts of campaign data, the marketing team lacks an integrated,    real-time tool to comprehensively track performance across all key metrics and demographic/geographic segments.      
+ While Meta (Facebook and Instagram) platforms generate vast amounts of campaign data, the marketing team lacks an integrated,    real-time tool to comprehensively track performance across all key metrics and demographic/geographic segments. The existing challenge is a “leaky” conversion funnel: ads show high Click-Through Rates (CTR of 11.76%) and Engagement Rates
+(13.56%), but suffer from a low Purchase Rate(0.61%), indicating that interest is high but conversions are low.    
